@@ -10,7 +10,7 @@
 
 	<form>
 		
-			<h3><u>CONTACT Information</u></h3>
+			<h3><u>CONTACT Info.</u></h3>
 		
 			
 		 
