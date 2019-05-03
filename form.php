@@ -69,6 +69,7 @@ include('connection.php');
   <a class="active" href="1.php">Home</a>
   <a href="about.php">About</a>
   <a href="blog.php">Blog</a>
+  <a href="offer.php">Offer</a>
   <a href="contact.php">Contact</a>
 
     <a href="form.php">LOG IN</a>
