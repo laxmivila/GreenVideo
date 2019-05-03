@@ -80,6 +80,7 @@
   <a href="blog.php">Blog</a>
   <a href="form.php">LOG IN</a>
   <a href="contact.php">Contact US</a>
+  <a href="offer.php">Offer</a>
   </div>
   
   <div class="book">
