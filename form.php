@@ -77,7 +77,7 @@ include('connection.php');
     
   </div>
 </div>
-<h3>LOGIN FORM</h3>
+<h3>LOGIN</h3>
 
 <div class="container">
   <form method="POST">
